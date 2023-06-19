@@ -1,2 +1,2 @@
-# git-pull-ej
+# git-pull-practica
 practica con git pull
